@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Адаптивная верстка сайта с burger-menu</h1>
+  <h2>Адаптивная верстка сайта с burger-menu</h2>
   <h4>Ссылка на сайт <a href="https://soloveva98.github.io/MOGO/">MOGO</a></h4>
 </div>
 
